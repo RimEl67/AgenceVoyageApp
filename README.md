@@ -1,4 +1,21 @@
-# VoyageApp
+# 🌍 VoyageApp — Application Web pour Agence de Voyage
+
+VoyageApp est une application **PHP** complète dédiée aux agences de voyage. Elle permet de gérer les **arrangements**, **réservations**, **clients**, etc. grâce à une interface simple et efficace (frontend HTML/CSS/JS, backend PHP/MySQL).
+
+---
+
+
+
+## ⚙️ Stack Technique
+
+- **Serveur** : Apache 
+- **Backend** : PHP 7.4+ / MySQL
+- **Frontend** : HTML5 / CSS3 / JS (jQuery)
+- **Base de données** : MySQL
+
+---
+
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/3078d8c3-619c-4a27-8675-b31f3a6486d3)
 ![image](https://github.com/user-attachments/assets/24fcac9f-1ba0-4afb-8b5c-a52bc63850ac)
