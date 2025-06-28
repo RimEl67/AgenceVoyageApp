@@ -1,6 +1,6 @@
 # 🌍 Application Web pour Agence de Voyage
 
-VoyageApp est une application **PHP** complète dédiée aux agences de voyage. Elle permet de gérer les **arrangements**, **réservations**, **clients**, etc. grâce à une interface simple et efficace (frontend HTML/CSS/JS, backend PHP/MySQL).
+LeVoyageLibre est une application **PHP** complète dédiée aux agences de voyage. Elle permet de gérer les **arrangements**, **réservations**, **clients**, etc. grâce à une interface simple et efficace (frontend HTML/CSS/JS, backend PHP/MySQL).
 
 ---
 
